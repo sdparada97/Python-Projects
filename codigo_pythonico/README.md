@@ -1,9 +1,6 @@
 # Dojo PEP y buenas practicas
 
-## Ejercicio
-
-Crea un Fork de este proyecto, corrige los errores siguiendo la guía de estilos de Python PEP8
-y genera un Pull Request con tus cambios.
+## Codebreaker:
 
 1. Corrige la logica para que el juego funcione correctamente.
 2. Corrige la nomenclatura y forma en la que está escrito el codigo para que siga la guia de estilos de python (PEP8).
@@ -12,7 +9,7 @@ y genera un Pull Request con tus cambios.
 5. Agrega un formater al proyecto.
 6. (Nice to have) Agrega un pre-commit.
 
-## Como jugar Codebreaker?
+## ¿Como jugar Codebreaker?
 
 1. El objetivo del juego es adivinar una secuencia numérica de 4 cifras oculta por el oponente en el menor número de intentos posibles.
 2. La secuencia numérica puede consistir en números del 0 al 9, y no se repiten los números dentro de la secuencia.
