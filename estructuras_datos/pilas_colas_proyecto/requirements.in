@@ -1,0 +1,9 @@
+pip-tools
+black
+Sphinx
+colorama
+flake8
+furo
+requests
+typing
+
