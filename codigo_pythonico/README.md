@@ -1,4 +1,4 @@
-# Dojo PEP y buenas practicas
+# PEP y buenas practicas
 
 ## Codebreaker:
 

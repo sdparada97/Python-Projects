@@ -1,8 +1,6 @@
-# Dojo Estructuras de datos
+# Estructuras de datos
 
-## Ejercicio Práctico
-
-El objetivo de este ejercicio es practicar diferentes conceptos y técnicas de programación relacionadas con la manipulación de datos CSV utilizando list comprehension, dict comprehension, set comprehension, iterators, iterables, generators y corrutinas.
+El objetivo: Practicar diferentes conceptos y técnicas de programación relacionadas con la manipulación de datos CSV utilizando list comprehension, dict comprehension, set comprehension, iterators, iterables, generators y corrutinas.
 
 El archivo CSV proporcionado contiene información de estudiantes, incluyendo su nombre, apellido, ciudad, país, edad y carrera universitaria. Se deben realizar las siguientes tareas:
 
@@ -22,6 +20,3 @@ Nota: Puedes agrega cualquier dato adicional que quieras al reporte.
 
 Es importante utilizar las herramientas adecuadas de Python, como la biblioteca `csv`, para leer y manipular los datos del archivo CSV. Además, se deben aplicar las técnicas y conceptos mencionados para practicar y demostrar comprensión de los mismos.
 
-El ejercicio tiene como objetivo reforzar el uso y la combinación de estas técnicas para manipular y analizar datos de manera eficiente y elegante.
-
-¡Diviértete practicando y explorando las diferentes técnicas y conceptos de programación relacionados con la manipulación de datos y diferentes estructuras de datos!
