@@ -1,0 +1,5 @@
+python-dotenv
+Flask
+peewee
+jinja2
+psycopg2-binary
